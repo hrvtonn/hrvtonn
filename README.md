@@ -55,7 +55,6 @@ Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois m
 ---
 
 ### 📂 Principais Projetos
-*(Dica: Você também pode fixar seus repositórios favoritos no topo do seu perfil!)*
 
 * **[TechSale](https://github.com/hrvtonn/TechSale)** - Aplicação e sistema voltado para o ecossistema de vendas e comércio.
 * **[Sentinel Dash](https://github.com/hrvtonn/sentinel-dash)** - Dashboard avançado de monitoramento e observabilidade de sistemas com foco em métricas em tempo real.
