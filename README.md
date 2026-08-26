@@ -24,6 +24,7 @@ Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois m
   
   <p><b>Backend & Frontend (Full Stack)</b></p>
   <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -64,8 +65,9 @@ Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois m
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrvtonn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvtonn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrvtonn&theme=tokyonight" alt="GitHub Profile Summary" />
+  </p>
 </div>
 
 <br>
