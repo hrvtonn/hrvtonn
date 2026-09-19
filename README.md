@@ -86,12 +86,6 @@ Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois m
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrvtonn&theme=tokyonight" alt="GitHub Profile Summary" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrvtonn&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvtonn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=hrvtonn&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-  </p>
 </div>
 
 ---
