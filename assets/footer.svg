@@ -1,0 +1,9 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divisor decorativo">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2088FF"/>
+      <stop offset="100%" stop-color="#6D5BBA"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg2)" d="M0,20 C200,60 400,0 600,20 C800,40 1000,0 1200,20 L1200,80 L0,80 Z"/>
+</svg>

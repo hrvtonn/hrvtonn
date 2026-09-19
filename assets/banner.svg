@@ -1,0 +1,21 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Heryvelton — Full Stack &amp; DevOps/DevSecOps">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6D5BBA"/>
+      <stop offset="100%" stop-color="#2088FF"/>
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 46px; font-weight: 700; fill: #ffffff; opacity: 0; animation: fadeIn 1.2s ease-out 0.1s forwards; }
+      .subtitle { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 500; fill: #e9edf5; opacity: 0; animation: fadeIn 1.2s ease-out 0.5s forwards; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <path fill="#0d1117" fill-opacity="0.12"
+        d="M0,150 C200,190 400,110 600,150 C800,190 1000,110 1200,150 L1200,200 L0,200 Z"/>
+
+  <text x="600" y="95" text-anchor="middle" class="title">Heryvelton</text>
+  <text x="600" y="135" text-anchor="middle" class="subtitle">Full Stack &amp; DevOps/DevSecOps</text>
+</svg>

@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:2088FF&height=180&section=header&text=Heryvelton&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20DevOps%2FDevSecOps&descAlignY=62&descSize=18" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/hrvtonn/hrvtonn/main/assets/banner.svg" alt="banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8BC6EC&center=true&vCenter=true&width=560&lines=Transformo+caf%C3%A9+em+pipeline+%E2%98%95%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+React;Terraform+%2B+Ansible+%2B+Docker;Shift+Left+em+seguran%C3%A7a+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8BC6EC&center=true&vCenter=true&width=650&lines=Transformo+caf%C3%A9+em+pipeline+%E2%98%95%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+React;Terraform+%2B+Ansible+%2B+Docker;Shift+Left+em+seguran%C3%A7a+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 <p>
@@ -94,4 +94,4 @@ Curto unir o melhor de dois mundos: **Desenvolvimento de Software (Full Stack)**
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2088FF,100:6D5BBA&height=100&section=footer" alt="footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/hrvtonn/hrvtonn/main/assets/footer.svg" alt="footer" width="100%"/>
