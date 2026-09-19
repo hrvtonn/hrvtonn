@@ -89,6 +89,25 @@ Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois m
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvtonn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=hrvtonn&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+  </p>
+</div>
+
+---
+
+### 📫 Vamos conversar?
+
+<div align="center">
+  <p>Aberto a trocar ideia sobre DevOps, DevSecOps, arquitetura de software e boas práticas de engenharia.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/heryvelton/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:heryvelton20@gmail.com">
+      <img src="https://img.shields.io/badge/E-mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
 </div>
 
 <br>
