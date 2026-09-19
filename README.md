@@ -66,6 +66,18 @@ Curto unir o melhor de dois mundos: **Desenvolvimento de Software (Full Stack)**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrvtonn&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hrvtonn/hrvtonn/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrvtonn/hrvtonn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrvtonn/hrvtonn/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/hrvtonn/hrvtonn/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
 <br>
 
 ### 📫 Vamos conversar?
