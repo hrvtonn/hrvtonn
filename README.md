@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá! 👋 Eu sou o Heryvelton</h1>
-  <p><b>Desenvolvedor Full Stack & DevOps/DevSecOps</b></p>
+  <h1>E aí! 👋 Eu sou o Heryvelton</h1>
+  <p><b>Dev Full Stack de dia, DevOps de sempre</b> — transformo café em pipeline e código em produção ☕🚀</p>
 
   <p>
     <a href="https://www.linkedin.com/in/heryvelton/" target="_blank">
@@ -14,7 +14,7 @@
 
 ---
 
-Sou um profissional apaixonado por tecnologia, focado em unir o melhor de dois mundos: **Desenvolvimento de Software (Full Stack)** e **Infraestrutura/Automação (DevOps & DevSecOps)**. Meu objetivo é projetar, desenvolver e orquestrar aplicações ponta a ponta — da arquitetura de código à entrega contínua em ambientes de produção seguros e escaláveis.
+Curto unir o melhor de dois mundos: **Desenvolvimento de Software (Full Stack)** e **Infraestrutura/Automação (DevOps & DevSecOps)**. Gosto de colocar a mão na massa do código até o deploy — projetar, desenvolver e orquestrar aplicações ponta a ponta, em ambientes de produção seguros e escaláveis.
 
 🌱 Sempre praticando com desafios reais de IaC, CI/CD e segurança de pipelines para me manter atualizado nas ferramentas do mercado.
 
